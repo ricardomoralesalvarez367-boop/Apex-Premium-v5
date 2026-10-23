@@ -147,4 +147,5 @@ local function startUltraFastRep()
                     ev:FireServer("punch", "rightHand")
                 end)
             end
-  
+      end
+        end
